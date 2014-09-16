@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Repo for Github tutorial
+William Cole-Baker stepping through Hello World tutorial
